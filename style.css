@@ -71,3 +71,12 @@ label{
     display: flex;
     flex-direction: column;
 }
+
+/* Company Outreach */
+.contact ul{
+        list-style-type: none;
+    text-align: center;
+    background-color: none;
+    overflow: hidden;
+    padding: 1em;
+}
