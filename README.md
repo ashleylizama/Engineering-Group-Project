@@ -4,7 +4,7 @@
 - [Kayloni Hartsfield] - [GitHub Username: kayharts65]
 - [Asia Flores] - [GitHub Username: asiaflores]
 - [Iasha Eleby] - [GitHub Username: funnga16]
-- [Name] - [GitHub Username]
+- [Ashley Lizama] - [GitHub Username: ashleylizama]
 ## Project Description
 Brief description of the Connect platform and what this project
 implements. (Refer to BMC document)
@@ -32,10 +32,9 @@ implements. (Refer to BMC document)
 - Implemented placeholder image
 - Making sure container fits
 - Created mission statement for company
-  ### [Team Member 4 Name]
-  - Designed and implemented color scheme
-- Created footer component
+  ### [Ashley Lizama]
+- Designed and implemented color scheme
+- Created verification page
 - [List other specific contributions]
 - Implemented hero section styling
 - Made site responsive for mobile devices
-- [List other specific contributions]
