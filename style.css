@@ -227,3 +227,38 @@ label{
     font-size: 18px;
 }
 /* End Upload Button */
+
+/*Verification Styling */
+.ver-container{
+    display: flex;
+}
+.team1{
+    width: 300px;
+    margin: 50px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.team2{
+    width: 350px;
+    margin: 50px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.team3{
+    width: 350px;
+    margin: 50px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.team4{
+    justify-content: center;
+    width: 250px;
+    margin-left: 550px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+    
+}
