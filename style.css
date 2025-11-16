@@ -70,13 +70,31 @@ input{
 }
 /* idk yet */
 .intro {
-    margin-top: 15em;
-    margin-left: 10em;
+    margin-top: 8em;
+    margin-left: 5em;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+/*    margin-left: 5em; */
 }
 .intro h1{
     font-size: 62px;
     color: #D2042D;
-    justify-content: center;
+ /*   justify-content: center; */
+}
+.input-intro {
+    display: flex;
+    align-items: center;
+    border-bottom: 3px solid #D2042D;
+    width: 50%;
+    margin: 5px;
+}
+.input-intro input{
+    font-family: 'Times New Roman', 'Times', 'Cambria';
+    color: #D2042D;
+    font-style: bold;
+    padding: 6px 10px;
+    font-size: 55px;
 }
 /* Match button styling */
 .seematch{
@@ -90,6 +108,7 @@ input{
     font-size: 20px;
     padding: 20px;
     width: 400px;
+    margin-left: 8em;
     cursor: pointer;
 }
 .seematch a{
@@ -122,7 +141,7 @@ input{
 }
 /* End of Match button styling */
 .check-container {
-    margin-top: 18.2em;
+    margin-top: 21.3em;
 }
 #checkhead {
     text-align: center;
@@ -134,7 +153,6 @@ input{
     display: block;
     position: relative;
     padding-left: 35px;
-    margin-bottom: 1em;
     cursor: pointer;
     font-size: 30px;
     -webkit-user-select: none;
@@ -270,6 +288,10 @@ label{
 .ver-container{
     display: flex;
 }
+.input-team input{
+    position: flex;
+    border-bottom: 3px solid black;
+}
 .team1{
     width: 300px;
     margin: 50px;
@@ -300,5 +322,3 @@ label{
     border-radius: 10px;
     
 }
-
-
