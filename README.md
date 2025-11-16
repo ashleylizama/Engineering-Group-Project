@@ -6,8 +6,8 @@
 - [Name] - [GitHub Username]
 - [Name] - [GitHub Username]
 ## Project Description
-Brief description of the Connect platform and what this project
-implements. (Refer to BMC document)
+In this project, we designed a website that enables college students to find opportunities and matches to allow an easier way to find internships and career support. 
+In response to the lack of availabity, lack of refferals and visa limitations, we included features that connected students to the right companies by matching their needs to trusted companies that our website provides. To keep loyalty with our customers, we verify each company and provide company insights to increase dependability between users and providers.
 ## Pages Implemented
 1. Landing Page (index.html)
 2. Company Match Listings (match.html)
