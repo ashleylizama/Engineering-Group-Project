@@ -1,21 +1,21 @@
 /* nav bar */
-ul {
+nav ul {
     list-style-type: none;
     text-align: center;
     background-color: #B70707;
     overflow: hidden;
     padding: 1em;
 }
-li {
+nav li {
     display: inline;
 }
-li a {
+nav li a {
     color: white;
     text-decoration: none;
     font-size: 2em;
     padding: 1em;
 }
-li a:hover {
+nav li a:hover {
     background-color: black;
 }
 /* nav bar */
@@ -300,4 +300,5 @@ label{
     border-radius: 10px;
     
 }
+
 
