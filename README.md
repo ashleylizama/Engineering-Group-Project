@@ -22,8 +22,8 @@ implements. (Refer to BMC document)
 ### [Kayloni Hartsfield]
 - Implemented landing page HTML structure
 - Created responsive navigation bar
-- [List other specific contributions]
-### [Team Member 2 Name]
+- Created the buttons and user input for index.html
+### [Iasha Eleby]
 - Designed and implemented color scheme
 - Created footer component
 - [List other specific contributions]
